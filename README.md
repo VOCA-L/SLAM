@@ -1,7 +1,7 @@
 # SLAM
 
 YDLidar G4
--- some code need YDLiDAR SDK
+  - Some code need YDLiDAR SDK
 
 Jetson Nano
   - Ubuntu 18.04
