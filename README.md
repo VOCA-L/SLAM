@@ -9,3 +9,10 @@ Jetson Nano
 
 ## Kalman Filter
 -1D
+
+## Driving part
+  - Arduino DUE
+  - motor driver L298N
+  - motor (64:1)
+  - encoder (12)
+  --- 12 * 64 * 4
